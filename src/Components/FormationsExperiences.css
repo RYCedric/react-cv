@@ -1,0 +1,16 @@
+.grid__item,
+.grid__item p {
+  margin-bottom: var(--spacing-1);
+}
+.grid__date {
+  font-weight: 500;
+}
+
+.grid__title {
+  margin-bottom: 0;
+}
+
+.grid__location {
+  color: var(--date-color);
+  font-weight: 300;
+}
