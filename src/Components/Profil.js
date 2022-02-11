@@ -5,10 +5,10 @@ const Profil = () => {
     <div className="profil mb5">
       <h2 className="h2">Profil</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta alias,
-        cupiditate nesciunt exercitationem fugiat illum, laborum nulla natus
-        facere recusandae repudiandae cumque eos in ipsum repellat rerum
-        doloremque quidem reiciendis!
+        Professionnel doté d'un grand sens de l'organisation et d'une solide
+        connaissance en développeur web. Je sais m'intégrer sans difficultés
+        dans de nouveaux contextes de travail grâce à un véritable esprit
+        d'équipe et à d'excellentes capacités d'écoute et de communication.
       </p>
     </div>
   );

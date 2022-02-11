@@ -2,16 +2,22 @@ const dataExperiences = [
   {
     id: 1,
     title: "Développeur Web - Freelance",
-    date: "23/08/2021 - ",
+    date: "Août 2021 - ",
     location: "Antananarivo",
-    text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis possimus accusantium reprehenderit perspiciatis",
+    text: "•	Développement d’une application pour la gestion d’une école, réalisation de la partie back-end en Php et la partie front-end en JavaScript utilisant la bibliothèque ReactJS.",
   },
   {
     id: 2,
-    title: "Stage technicien de laboratoire",
-    date: "15/01/2017 - 26/07/2017",
+    title: "Dessinateur Projeteur - Freelance",
+    date: "Février 2021 - Mai 2021",
     location: "Antananarivo",
-    text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis possimus accusantium reprehenderit perspiciatis",
+    text: "•	Réalisation de plan d'exécution et plan architecture à l’aide du logiciel Revit, en faisant preuve de précision et de rigueur.",
+  },
+  {
+    id: 3,
+    title: "Stage technicien de laboratoire",
+    date: "Janvier 2017 - Juin 2017",
+    location: "Antananarivo",
   },
 ];
 

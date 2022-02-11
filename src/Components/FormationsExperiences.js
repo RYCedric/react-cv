@@ -8,8 +8,8 @@ import Experiences from "./Experiences";
 const FormationsExperiences = () => {
   return (
     <div>
-      <Formations data={DataFormations} />
       <Experiences data={dataExperiences} />
+      <Formations data={DataFormations} />
     </div>
   );
 };

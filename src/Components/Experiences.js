@@ -3,7 +3,7 @@ import React from "react";
 const Experiences = ({ data }) => {
   return (
     <div className="cursus mb3">
-      <h2 className="h2">Formations</h2>
+      <h2 className="h2">Expériences</h2>
       {data.map((item) => (
         <div className="grid__row" key={item.id}>
           <div className="grid__item">
